@@ -1,0 +1,11 @@
+export {default as AdminLayout} from './AdminLayout'
+export {default as Dashboard} from './Dashboard'
+export {default as CreateProduct} from './CreateProduct'
+export {default as ManageProduct} from './ManageProduct'
+
+export {default as CreateCategory} from './CreateCategory'
+export {default as ManageCategory} from './ManageCategory'
+export {default as ManageOrder} from './ManageOrder'
+export {default as EditCategory} from './EditCategory'
+export {default as EditProduct} from './EditProduct'
+export {default as EditOrder} from './EditOrder'

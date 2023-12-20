@@ -1,0 +1,11 @@
+export {default as Home} from './home'
+export {default as Login} from './login'
+export {default as Public} from './public'
+export {default as Products} from './products'
+export {default as Detaiproduct} from './Detaiproduct'
+export {default as FAQ} from './FAQ'
+export {default as Blogs} from './Blogs'
+export {default as Services} from './Services'
+export {default as CartPage} from './CartPage'
+export {default as Payment} from './payment'
+
